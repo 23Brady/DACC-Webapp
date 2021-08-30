@@ -3,5 +3,38 @@ body{
     background-image: url('../../images/blue_backround.jfif');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1300px;
+    background-size: 1400px;
 }
+
+  p{
+      margin-left:250px
+  }
+  ul.ulnav{
+      border-radius: 15px;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(247, 251, 253);
+  }
+  li.linav{
+      float:left;
+  }
+  li.linav a{
+      display: block;
+      color: #ffffff
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+  }
+  li.linav a.active{
+    display: block;
+    color: #888080
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li.linav a:hover{
+    background-color: #111;
+}
+
