@@ -15,6 +15,7 @@ body{
   }
   li.linav{
       float:left;
+      list-style-type: none;
   }
   li.linav a{
       display: block;
@@ -44,4 +45,44 @@ img.dacc{
 p.large{
     font-size: 30pt;
 }
-
+#page_wrapper{
+    border-radius: 10px;
+    border: 2px solid #333333;
+    padding: 10px;
+    height:800px;
+    width:700px;
+    background-color: rgb(168, 168, 168);
+}
+p.p_content1{
+    font-size: 12pt;
+    color: rgb(255, 255, 255);
+    font-family: verdana;
+    background-color: #9999;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid #333333;
+}
+span.font1{
+    font-size: 20pt;
+    color:rgb(255, 255, 255);
+    font-family: verdana;
+    font-weight: bold;
+}
+#page_wrapper2{
+    border-radius: 10px;
+    border: 2px solid #333333;
+    padding: 10px;
+    height:500px;
+    width:150px;
+    background-color: rgb(168, 168, 168);
+    margin-top: 20px;
+}
+#page_wrapper3{
+    border-radius: 10px;
+    border: 2px solid #333333;
+    padding: 10px;
+    height:500px;
+    width:150px;
+    background-color: rgb(168, 168, 168);
+    margin-top: 20px;
+}
