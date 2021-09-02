@@ -26,7 +26,7 @@ body{
   }
   li.linav a.active{
     display: block;
-    color: #000000;
+    color: #63d0e4;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -52,6 +52,8 @@ p.large{
     height:800px;
     width:700px;
     background-color: rgb(168, 168, 168);
+    margin-left: auto;
+    margin-right: auto;
 }
 p.p_content1{
     font-size: 12pt;
@@ -86,3 +88,16 @@ span.font1{
     background-color: rgb(168, 168, 168);
     margin-top: 20px;
 }
+table.top{
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(128, 128, 128);
+}
+table.bottom{
+    margin-top: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(128, 128, 128);
+}
+
