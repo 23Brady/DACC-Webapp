@@ -100,4 +100,12 @@ table.bottom{
     margin-left: auto;
     background-color: rgb(128, 128, 128);
 }
-
+table.hobbies{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+dl.favgames{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+}
