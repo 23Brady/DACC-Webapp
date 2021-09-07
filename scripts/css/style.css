@@ -104,8 +104,14 @@ table.hobbies{
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
 }
-dl.favgames{
+dl.gamelist{
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(119, 117, 117);
+    color: rgb(255, 255, 255);
+    font-family: verdana;
+}
+dt.listtitle{
+    font-size: 15pt;
+    font-family: verdana;
 }
