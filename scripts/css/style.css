@@ -99,6 +99,7 @@ table.bottom{
     margin-right: auto;
     margin-left: auto;
     background-color: rgb(128, 128, 128);
+    border: 2px solid #000000;
 }
 table.hobbies{
     background-color: rgb(255, 255, 255);
@@ -114,4 +115,25 @@ dl.gamelist{
 dt.listtitle{
     font-size: 15pt;
     font-family: verdana;
+}
+#page_wrapper4{
+    border: 2px solid #000000;
+    padding: 10px;
+    background-color: azure;
+}
+#page_wrapper5{
+    border: 2px solid #000000;
+    padding: 10px;
+    background-color: azure;
+}
+table.skills{
+    border: 2px solid #000000;
+    background-color: #cccccc;
+}
+a.dacclink{
+    text-decoration: none;
+    color: rgb(65, 119, 235);
+}
+a.dacclink:hover{
+    color: #8d5caa;
 }
